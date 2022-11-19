@@ -1,0 +1,5 @@
+name: ReportMachine
+version: '${project.version}'
+main: top.ncc.reportmachine.Main
+api-version: 1.19
+authors: [ Natural_Code_Club ]
